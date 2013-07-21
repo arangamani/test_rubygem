@@ -23,7 +23,7 @@
 module TestRubyGem
   MAJOR = 0
   MINOR = 0
-  TINY  = 13
+  TINY  = 14
   PRE   = nil
   VERSION = [MAJOR, MINOR, TINY, PRE].compact.join('.')
 end
