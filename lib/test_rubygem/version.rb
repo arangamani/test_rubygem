@@ -21,7 +21,6 @@
 #
 
 # Test Rubygem Module
-# blah
 module TestRubyGem
   MAJOR = 0
   MINOR = 0
